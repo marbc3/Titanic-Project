@@ -15,9 +15,9 @@ Kaynak: https://www.kaggle.com/competitions/titanic/data
 * **Name**: İsim.
 * **Sex**: Cinsiyet.
 * **Age**: Yaş.
-* **SibSp	**: Titanic'teki kardeş/eş sayısı.
+* **SibSp**: Titanic'teki kardeş/eş sayısı.
 * **Parch**: Titanic’teki ebeveynlerin/çocukların sayısı.
 * **Ticket**: Bilet numarası.
-* **Fare	**: Ücret.
+* **Fare**: Ücret.
 * **Cabin**: Kabin numarası.
 * **Embarked**: Biniş limanı.
