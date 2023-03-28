@@ -2,7 +2,6 @@
 
 # İş Problemi
 * Kişinin Titanic kazasından sağ çıkıp çıkmayacağını tahmin edebilir miyiz?
-* Kişilerin ölümünde hangi faktörler etkilidir?
 
 # Veri Seti
 Veri setimiz toplamda 891 satırdan ve 12 değişkenden oluşmaktadır.
